@@ -1,0 +1,756 @@
+City,Segment,Month,Trips_K,Gross_Bookings_USDM,Revenue_USDM
+San Francisco,Mobility,2025-01-01,8853.7,263.93,81.43
+New York,Mobility,2025-01-01,8202.0,260.18,79.85
+Los Angeles,Mobility,1/1/2025,14948.5,470.38,144.43
+Chicago,Mobility,2025-01-01,13478.1,451.98,132.98
+Miami,Mobility,2025-01-01,12804.9,398.15,125.88
+Toronto,Mobility,2025-01-01,10725.3,317.42,102.04
+Mexico City,Mobility,2025-01-01,7868.2,271.83,84.33
+Sao Paulo,Mobility,2025-01-01,6660.7,234.89,72.24
+Bogota,Mobility,2025-01-01,8964.1,318.1,95.03
+London,Mobility,2025-01-01,9472.5,286.57,87.36
+Paris,Mobility,2025-01-01,5665.6,182.77,56.84
+Berlin,Mobility,2025-01-01,2782.9,-93.8,28.64
+Amsterdam,Mobility,2025-01-01,2797.6,84.67,27.25
+Madrid,Mobility,2025-01-01,7331.8,249.57,75.12
+Lagos,Mobility,2025-01-01,18569.1,569.64,167.19
+Nairobi,Mobility,2025-01-01,18907.9,623.63,197.88
+Johannesburg,Mobility,2025-01-01,3500.0,124.99,39.66
+Cairo,Mobility,2025-01-01,2840.6,92.17,29.43
+Accra,Mobility,2025-01-01,8560.8,301.03,91.37
+Dubai,Mobility,2025-01-01,5687.3,192.02,60.53
+Riyadh,Mobility,2025-01-01,3005.5,88.96,26.83
+Mumbai,Mobility,2025-01-01,11657.9,395.47,116.65
+Singapore,Mobility,2025-01-01,6684.1,203.9,59.78
+Sydney,Mobility,2025-01-01,3769.9,122.86,37.9
+Tokyo,Mobility,2025-01-01,2881.7,100.11,31.41
+San Francisco,Mobility,2025-02-01,8661.5,283.76,83.68
+New York,Mobility,2025-02-01,8885.6,262.69,78.71
+Los Angeles,Mobility,2025-02-01,17889.1,537.06,161.48
+Chicago,Mobility,2025-02-01,14446.7,436.11,132.33
+Miami,Mobility,2025-02-01,15302.8,450.93,132.76
+Toronto,Mobility,2025-02-01,11123.1,340.82,101.99
+Mexico City,Mobility,2025-02-01,7733.0,271.9,81.69
+Sao Paulo,Mobility,2025-02-01,7325.4,248.67,76.89
+Bogota,Mobility,2025-02-01,10845.1,353.04,106.88
+London,Mobility,2025-02-01,10091.8,320.91,98.25
+Paris,Mobility,2025-02-01,5802.9,200.62,59.57
+Berlin,Mobility,2025-02-01,2994.0,101.5,32.12
+Amsterdam,Mobility,2025-02-01,2666.7,79.27,24.89
+Madrid,Mobility,2025-02-01,8093.4,243.1,77.91
+Lagos,Mobility,2025-02-01,17843.6,623.4,189.68
+Nairobi,Mobility,2025-02-01,18227.3,619.33,198.72
+Johannesburg,Mobility,2025-02-01,4166.6,126.48,37.85
+Cairo,Mobility,2025-02-01,2961.4,101.93,30.61
+Accra,Mobility,2025-02-01,8940.2,304.4,89.33
+Dubai,Mobility,2025-02-01,6308.0,199.08,63.2
+Riyadh,Mobility,2025-02-01,2799.8,95.8,30.61
+Mumbai,Mobility,2025-02-01,11427.2,372.53,111.61
+Singapore,Mobility,2025-02-01,6410.2,212.17,62.96
+Sydney,Mobility,2025-02-01,4105.2,136.06,40.19
+Tokyo,Mobility,2025-02-01,3690.6,115.54,37.14
+San Francisco,Mobility,2025-03-01,8483.4,294.13,90.96
+New York,Mobility,2025-03-01,8817.6,263.52,76.92
+Los Angeles,Mobility,2025-03-01,15343.1,545.48,175.03
+Chicago,Mobility,2025-03-01,15447.1,477.01,146.03
+Miami,Mobility,2025-03-01,12627.1,443.81,142.9
+Toronto,Mobility,2025-03-01,12292.8,368.03,115.54
+Mexico City,Mobility,2025-03-01,9710.3,296.41,92.75
+Sao Paulo,Mobility,2025-03-01,9230.9,287.47,86.85
+Bogota,Mobility,2025-03-01,11548.8,378.61,120.42
+London,Mobility,2025-03-01,10159.1,323.16,102.71
+Paris,Mobility,2025-03-01,6298.0,199.96,60.6
+Berlin,Mobility,2025-03-01,3195.9,100.39,29.49
+Amsterdam,Mobility,2025-03-01,2953.2,91.23,29.04
+Madrid,Mobility,2025-03-01,8103.6,257.38,80.79
+Lagos,Mobility,2025-03-01,17887.3,627.57,198.97
+Nairobi,Mobility,2025-03-01,22306.9,705.74,206.26
+Johannesburg,Mobility,2025-03-01,4065.4,126.29,37.69
+Cairo,Mobility,2025-03-01,3470.9,103.54,32.12
+Accra,Mobility,2025-03-01,8754.2,293.71,85.67
+Dubai,Mobility,2025-03-01,6047.4,208.4,62.01
+Riyadh,Mobility,2025-03-01,3297.4,107.58,33.52
+Mumbai,Mobility,2025-03-01,13888.3,434.07,130.82
+Singapore,Mobility,2025-03-01,7322.5,223.0,67.92
+Sydney,Mobility,2025-03-01,4447.8,146.76,46.72
+Tokyo,Mobility,2025-03-01,3288.8,114.13,34.36
+San Francisco,Mobility,2025-04-01,9858.9,297.92,94.45
+New York,Mobility,2025-04-01,8956.1,301.95,96.78
+Los Angeles,Mobility,2025-04-01,15610.6,526.48,160.68
+Chicago,Mobility,2025-04-01,14846.9,467.55,142.17
+Miami,Mobility,2025-04-01,15638.4,473.39,142.51
+Toronto,Mobility,2025-04-01,11554.6,406.17,123.98
+Mexico City,Mobility,2025-04-01,7879.5,278.93,88.74
+Sao Paulo,Mobility,2025-04-01,8686.0,290.95,89.87
+Bogota,Mobility,2025-04-01,11187.3,388.24,113.35
+London,Mobility,2025-04-01,10588.1,321.07,93.79
+Paris,Mobility,2025-04-01,5570.6,196.97,58.24
+Berlin,Mobility,2025-04-01,3328.8,104.75,31.95
+Amsterdam,Mobility,2025-04-01,3062.0,90.72,28.68
+Madrid,Mobility,2025-04-01,8609.8,279.08,83.02
+Lagos,Mobility,2025-04-01,19389.5,628.85,183.44
+Nairobi,Mobility,2025-04-01,21655.3,730.75,216.94
+Johannesburg,Mobility,2025-04-01,4012.2,128.92,40.32
+Cairo,Mobility,2025-04-01,3324.5,109.5,34.44
+Accra,Mobility,2025-04-01,9394.2,329.35,105.12
+Dubai,Mobility,2025-04-01,6457.6,224.38,70.35
+Riyadh,Mobility,2025-04-01,3521.0,105.23,32.68
+Mumbai,Mobility,2025-04-01,14002.2,420.79,129.95
+Singapore,Mobility,2025-04-01,7767.2,252.33,80.83
+Sydney,Mobility,2025-04-01,4765.5,147.39,43.87
+Tokyo,Mobility,2025-04-01,3961.3,122.62,38.14
+San Francisco,Mobility,2025-05-01,10148.5,299.52,95.54
+New York,Mobility,2025-05-01,10725.4,327.55,100.83
+Los Angeles,Mobility,2025-05-01,18667.9,563.4,179.88
+Chicago,Mobility,2025-05-01,15294.1,499.07,146.68
+Miami,Mobility,2025-05-01,15447.0,499.5,157.31
+Toronto ,Mobility,2025-05-01,10559.7,372.03,117.63
+Mexico City,Mobility,2025-05-01,9771.9,325.62,96.6
+Sao Paulo,Mobility,2025-05-01,8895.0,307.87,91.03
+Bogota,Mobility,2025-05-01,12932.0,391.41,122.73
+London,Mobility,2025-05-01,10748.4,347.22,111.24
+Paris,Mobility,2025-05-01,6673.1,227.53,66.9
+Berlin,Mobility,2025-05-01,3499.8,108.11,32.46
+Amsterdam,Mobility,2025-05-01,3133.1,94.77,29.13
+Madrid,Mobility,2025-05-01,8698.4,287.19,86.43
+Lagos,Mobility,2025-05-01,21137.4,722.66,230.52
+Nairobi,Mobility,2025-05-01,24268.8,779.21,250.19
+Johannesburg,Mobility,2025-05-01,4349.8,139.35,41.46
+Cairo,Mobility,2025-05-01,3179.3,112.88,34.98
+Accra,Mobility,2025-05-01,10733.1,353.02,108.45
+Dubai,Mobility,2025-05-01,7143.1,230.82,71.24
+Riyadh,Mobility,2025-05-01,3555.8,113.85,33.4
+Mumbai ,Mobility,2025-05-01,14852.9,442.83,142.03
+Singapore,Mobility,2025-05-01,7058.8,245.42,75.07
+Sydney,Mobility,2025-05-01,5000.4,149.7,47.36
+Tokyo,Mobility,2025-05-01,3570.3,122.48,36.88
+San Francisco,Mobility,2025-06-01,9400.2,326.66,104.45
+New York,Mobility,2025-06-01,9582.2,328.56,95.96
+Los Angeles,Mobility,2025-06-01,17134.9,572.45,178.86
+Chicago,Mobility,2025-06-01,14728.8,514.47,159.68
+Miami,Mobility,2025-06-01,16380.3,527.33,155.63
+Toronto,Mobility,2025-06-01,12344.6,395.89,117.75
+Mexico City,Mobility,2025-06-01,9722.8,318.98,96.62
+Sao Paulo,Mobility,2025-06-01,8943.8,306.03,90.67
+Bogota,Mobility,2025-06-01,12768.9,409.55,127.35
+London,Mobility,2025-06-01,12112.3,365.48,113.35
+Paris,Mobility,2025-06-01,6973.8,212.21,66.65
+Berlin,Mobility,2025-06-01,3502.4,117.18,35.28
+Amsterdam,Mobility,2025-06-01,3446.6,101.4,30.22
+Madrid,Mobility,2025-06-01,9102.2,309.22,91.37
+Lagos,Mobility,2025-06-01,20934.6,732.44,219.24
+Nairobi,Mobility,2025-06-01,26207.4,800.48,243.59
+Johannesburg,Mobility,2025-06-01,4322.7,134.62,40.89
+Cairo,Mobility,2025-06-01,3477.4,108.35,32.24
+Accra,Mobility,2025-06-01,10351.9,360.79,115.84
+Dubai,Mobility,2025-06-01,7080.5,228.28,71.82
+Riyadh,Mobility,2025-06-01,3330.2,117.16,34.82
+Mumbai,Mobility,2025-06-01,13656.6,436.17,127.59
+Singapore,Mobility,2025-06-01,7558.6,261.73,80.83
+Sydney,Mobility,2025-06-01,4914.6,148.74,44.27
+Tokyo,Mobility,2025-06-01,3864.1,135.24,43.25
+San Francisco,Mobility,2025-07-01,9098.6,295.67,94.54
+New York,Mobility,2025-07-01,9900.2,321.42,96.63
+Los Angeles,Mobility,2025-07-01,18477.9,584.64,177.6
+Chicago,Mobility,2025-07-01,15859.1,479.63,149.68
+Miami,Mobility,2025-07-01,15516.0,478.36,145.67
+Toronto,Mobility,2025-07-01,11502.2,396.76,117.68
+Mexico City,Mobility,2025-07-01,10541.9,316.01,91.99
+Sao Paulo,Mobility,2025-07-01,10326.0,311.36,97.2
+Bogota,Mobility,2025-07-01,12681.3,401.34,121.6
+London,Mobility,2025-07-01,11216.2,341.66,109.57
+Paris,Mobility,2025-07-01,6778.4,208.78,66.5
+Berlin,Mobility,2025-07-01,3437.7,112.96,35.64
+Amsterdam,Mobility,2025-07-01,3186.2,99.05,31.45
+Madrid,Mobility,2025-07-01,9077.2,298.25,93.66
+Lagos,Mobility,2025-07-01,21562.5,717.55,210.09
+Nairobi,Mobility,2025-07-01,22494.5,746.49,217.19
+Johannesburg,Mobility,2025-07-01,4172.2,141.95,43.96
+Cairo,Mobility,2025-07-01,3632.7,120.98,37.63
+Accra,Mobility,2025-07-01,10665.6,341.86,105.31
+Dubai,Mobility,2025-07-01,7011.8,220.13,70.71
+Riyadh,Mobility,2025-07-01,3899.2,115.09,36.13
+Mumbai,Mobility,2025-07-01,13694.9,422.25,130.67
+Singapore,Mobility,2025-07-01,6999.1,247.29,74.91
+Sydney,Mobility,2025-07-01,4175.0,146.03,44.12
+Tokyo,Mobility,2025-07-01,3747.4,119.72,38.11
+San Francisco,Mobility,2025-08-01,10368.2,330.12,105.71
+New York,Mobility,2025-08-01,11399.7,346.95,107.6
+Los Angeles,Mobility,2025-08-01,18703.2,574.5,177.47
+Chicago,Mobility,2025-08-01,14610.5,504.51,160.98
+Miami,Mobility,2025-08-01,16171.0,522.1,154.44
+Toronto,Mobility,2025-08-01,14394.3,427.49,125.0
+Mexico City,Mobility,2025-08-01,10315.6,326.58,100.17
+Sao Paulo,Mobility,2025-08-01,9798.1,306.86,91.86
+Bogota,Mobility,2025-08-01,13442.3,416.18,124.56
+London,Mobility,2025-08-01,10233.5,347.25,101.07
+Paris,Mobility,2025-08-01,6887.5,211.74,62.55
+Berlin,Mobility,2025-08-01,3641.1,112.07,35.65
+Amsterdam,Mobility,2025-08-01,3099.0,92.05,29.54
+Madrid,Mobility,2025-08-01,8653.4,283.0,90.09
+Lagos,Mobility,2025-08-01,21395.2,726.19,232.67
+Nairobi,Mobility,2025-08-01,25464.0,787.47,251.44
+Johannesburg,Mobility,2025-08-01,4774.6,145.12,46.52
+Cairo,Mobility,2025-08-01,3839.9,120.96,35.58
+Accra,Mobility,2025-08-01,9849.5,347.89,103.27
+Dubai,Mobility,2025-08-01,7203.9,234.98,69.19
+Riyadh,Mobility,2025-08-01,3546.8,119.93,36.53
+Mumbai,Mobility,2025-08-01,15652.7,479.15,145.4
+Singapore,Mobility,2025-08-01,9075.3,269.17,86.44
+Sydney,Mobility,2025-08-01,4730.4,164.92,49.13
+Tokyo,Mobility,2025-08-01,4349.9,137.0,43.1
+San Francisco,Mobility,2025-09-01,10689.6,332.9,99.52
+New York,Mobility,2025-09-01,10721.8,337.18,104.1
+Los Angeles,Mobility,2025-09-01,19208.6,651.28,193.06
+Chicago,Mobility,2025-09-01,19703.4,592.18,188.69
+Miami,Mobility,2025-09-01,14961.4,505.01,147.71
+Toronto,Mobility,2025-09-01,12274.7,428.96,132.85
+Mexico City,Mobility,2025-09-01,9755.8,342.09,100.18
+Sao Paulo,Mobility,2025-09-01,10490.4,330.03,101.47
+Bogota,Mobility,2025-09-01,12216.1,417.45,127.43
+London,Mobility,2025-09-01,11893.7,360.07,112.85
+Paris,Mobility,2025-09-01,7198.3,219.09,64.48
+Berlin,Mobility,2025-09-01,3491.5,119.25,37.46
+Amsterdam,Mobility,2025-09-01,3289.1,100.1,29.88
+Madrid,Mobility,2025-09-01,10325.4,304.27,94.51
+Lagos,Mobility,2025-09-01,23769.0,731.88,224.99
+Nairobi,Delivery ,2025-09-01,25863.2,855.96,259.96
+Johannesburg,Mobility,2025-09-01,4032.9,141.65,44.96
+Cairo,Mobility,2025-09-01,3573.7,115.62,35.6
+Accra,Mobility,2025-09-01,12077.1,369.86,110.87
+Dubai,Mobility,2025-09-01,7249.6,226.74,67.38
+Riyadh,Mobility,2025-09-01,3675.3,113.61,34.07
+Mumbai,Mobility,2025-09-01,14460.0,501.08,149.96
+Singapore,Mobility,2025-09-01,8169.3,270.52,84.63
+Sydney,Mobility,2025-09-01,4889.5,155.64,48.61
+Tokyo,Mobility,2025-09-01,4740.1,141.58,45.22
+San Francisco,Mobility,2025-10-01,10178.7,341.24,105.11
+New York,Mobility,2025-10-01,11092.4,330.05,97.68
+Los Angeles,Mobility,2025-10-01,20297.8,672.78,196.07
+Chicago,Mobility,2025-10-01,,551.89,162.74
+Miami,Mobility,2025-10-01,16901.7,538.57,156.1
+Toronto,Mobility,2025-10-01,15112.1,457.69,137.39
+Mexico City,Mobility,2025-10-01,11321.2,347.77,100.61
+Sao Paulo,Mobility,2025-10-01,9674.5,343.88,100.56
+Bogota,Mobility,2025-10-01,13558.4,431.73,129.64
+London,Mobility,2025-10-01,13048.8,397.51,120.64
+Paris,Mobility,2025-10-01,7257.2,221.74,66.6
+Berlin,Mobility,2025-10-01,3628.0,111.9,32.05
+Amsterdam,Mobility,2025-10-01,3443.8,108.28,31.03
+Madrid,Mobility,2025-10-01,9521.0,298.52,91.44
+Lagos,Mobility,2025-10-01,23901.5,733.35,213.11
+Nairobi,Mobility,2025-10-01,24955.9,821.83,252.2
+Johannesburg,Mobility,2025-10-01,4763.9,148.71,46.54
+Cairo,Mobility,2025-10-01,4019.8,124.35,37.32
+Accra,Mobility,2025-10-01,11456.5,376.07,117.1
+Dubai,Mobility,2025-10-01,8462.3,255.5,77.66
+Riyadh,Mobility,2025-10-01,4251.9,127.56,39.41
+Mumbai,Mobility,October 2025,16386.8,526.18,159.51
+Singapore,Mobility,2025-10-01,8792.8,288.01,88.71
+Sydney,Mobility,2025-10-01,5348.4,164.83,47.53
+Tokyo,Mobility,2025-10-01,4202.5,144.88,42.78
+San Francisco,Mobility,2025-11-01,10277.9,345.45,102.5
+New York,Mobility,2025-11-01,11280.4,377.9,107.99
+Los Angeles,Mobility,2025-11-01,20620.0,631.44,191.57
+Chicago,Mobility,2025-11-01,17295.8,562.42,160.78
+Miami,Mobility,2025-11-01,16354.4,579.57,180.36
+Toronto,Mobility,2025-11-01,12741.8,434.81,125.89
+Mexico City,Mobility,2025-11-01,10971.1,347.53,106.15
+Sao Paulo,Delivery,2025-11-01,9753.9,328.57,95.13
+Bogota,Mobility,2025-11-01,12853.3,430.3,131.96
+London,Mobility,2025-11-01,12143.2,393.28,121.3
+Paris,Mobility,2025-11-01,8000.8,238.93,74.2
+Berlin,Mobility,2025-11-01,4104.3,121.64,36.54
+Amsterdam,Mobility,2025-11-01,3030.6,107.09,31.12
+Madrid,Mobility,2025-11-01,10593.8,349.52,107.64
+Lagos,Mobility,2025-11-01,23693.3,799.17,239.3
+Nairobi,Mobility,2025-11-01,26972.7,916.64,278.35
+Johannesburg,Mobility,2025-11-01,4485.8,148.39,44.24
+Cairo,Mobility,2025-11-01,4293.4,135.71,41.44
+Accra,Mobility,2025-11-01,10900.8,364.2,105.14
+Dubai,Mobility,2025-11-01,7686.3,247.17,76.62
+Riyadh,Mobility,2025-11-01,3863.1,130.51,40.94
+Mumbai,Mobility,2025-11-01,16969.1,520.17,150.08
+Singapore,Mobility,2025-11-01,9011.8,272.45,84.07
+Sydney,Mobility,2025-11-01,5401.8,182.37,52.24
+Tokyo,Mobility,2025-11-01,4515.4,146.22,41.95
+San Francisco,Mobility,2025-12-01,11646.4,369.49,115.49
+New York,Mobility,2025-12-01,12551.9,383.43,112.38
+Los Angeles,Mobility,2025-12-01,19392.9,679.36,211.57
+Chicago,Mobility,2025-12-01,19823.0,634.13,184.05
+Miami,Mobility,2025-12-01,19532.8,592.05,170.94
+Toronto,Mobility,2025-12-01,13125.0,461.24,135.28
+Mexico City,Mobility,2025-12-01,11675.2,361.56,107.74
+Sao Paulo,Mobility,2025-12-01,9880.7,345.06,105.09
+Bogota,Mobility,2025-12-01,15466.4,457.57,136.27
+London,Mobility,2025-12-01,11815.6,420.87,127.76
+Paris,Mobility,2025-12-01,7362.8,250.22,76.38
+Berlin,Mobility,2025-12-01,3627.1,129.25,38.48
+Amsterdam,Mobility,2025-12-01,3455.3,118.17,36.39
+Madrid,Mobility,2025-12-01,10415.1,344.23,100.75
+Lagos,Mobility,2025-12-01,24752.8,824.43,241.49
+Nairobi,Mobility,2025-12-01,25699.8,870.04,264.44
+Johannesburg,Mobility,2025-12-01,4711.2,157.16,48.07
+Cairo,Mobility,2025-12-01,4610.4,142.55,42.88
+Accra,Mobility,2025-12-01,10984.2,384.69,118.76
+Dubai,Mobility,2025-12-01,8022.3,250.18,71.76
+Riyadh,Mobility,2025-12-01,4127.9,135.73,39.28
+Mumbai,Mobility,2025-12-01,15933.2,558.26,168.45
+Singapore,Mobility,2025-12-01,8338.6,290.09,83.75
+Sydney,Mobility,2025-12-01,5946.0,177.37,50.76
+Tokyo,Mobility,2025-12-01,4612.4,144.66,43.3
+San Francisco,Mobility,2026-01-01,10412.0,343.45,91.3
+New York,Mobility,2026-01-01,8935.6,318.08,81.2
+Los Angeles,Mobility,2026-01-01,20493.4,604.67,158.85
+Chicago,Mobility,2026-01-01,17817.9,562.94,147.31
+Miami,Mobility,2026-01-01,14750.4,490.81,124.28
+Toronto,Mobility,2026-01-01,13061.2,431.55,106.77
+Mexico City,Mobility,2026-01-01,10940.1,332.01,87.98
+Sao Paulo,Mobility,2026-01-01,10395.9,318.9,79.33
+Bogota,Mobility,2026-01-01,13181.9,437.71,113.28
+London,Mobility,2026-01-01,11586.1,358.92,89.13
+Paris,Mobility,2026-01-01,7834.5,242.61,62.59
+Berlin,Mobility,2026-01-01,4028.5,119.65,29.88
+Amsterdam,Mobility,2026-01-01,2861.0,100.39,25.07
+Madrid,Mobility,2026-01-01,9377.4,291.38,75.62
+Lagos,Mobility,2026-01-01,21536.9,713.92,191.77
+Nairobi,Mobility,2026-01-01,26531.3,783.99,194.33
+Johannesburg,Mobility,2026-01-01,4341.8,138.89,37.22
+Cairo,Mobility,2026-01-01,3571.9,120.73,31.28
+Accra,Mobility,2026-01-01,12227.8,371.61,100.42
+Dubai,Mobility,2026-01-01,7853.0,238.34,59.07
+Riyadh,Mobility,2026-01-01,3361.7,114.17,30.57
+Mumbai, Mobility,2026-01-01,13989.0,480.5,127.85
+Singapore,Mobility,2026-01-01,7637.2,270.9,66.82
+Sydney,Mobility,2026-01-01,5151.2,153.14,41.36
+Tokyo,Mobility,2026-01-01,4268.6,133.28,33.67
+San Francisco,Mobility,2026-02-01,11299.7,358.14,91.15
+New York,Mobility,2026-02-01,10380.8,355.54,87.14
+Los Angeles ,Mobility,2026-02-01,19375.4,639.07,158.72
+Chicago,Mobility,2026-02-01,17795.8,571.87,142.48
+Miami,Mobility,2026-02-01,15977.7,532.72,138.14
+Toronto,Mobility,2026-02-01,14450.8,451.22,110.85
+Mexico City,Mobility,2026-02-01,10423.6,329.85,88.86
+Sao Paulo,Mobility,2026-02-01,10390.6,327.34,83.56
+Bogota,Mobility,2026-02-01,14475.3,445.25,117.64
+London,Mobility,2026-02-01,12385.2,374.97,101.35
+Paris,Mobility,2026-02-01,7638.7,249.6,63.7
+Berlin,Mobility,2026-02-01,3761.8,120.74,32.36
+Amsterdam,Mobility,2026-02-01,3463.5,103.62,26.51
+Madrid,Mobility,2026-02-01,9978.1,308.41,75.9
+Lagos,Mobility,2026-02-01,25539.4,808.59,213.09
+Nairobi,Mobility,2026-02-01,26955.9,854.1,215.69
+Johannesburg,Mobility,2026-02-01,4417.8,143.99,35.69
+Cairo,Mobility,2026-02-01,3549.4,125.37,31.96
+Accra,Mobility,2026-02-01,11125.9,377.98,97.61
+Dubai,Mobility,2026-02-01,7040.5,239.35,61.0
+Riyadh,Mobility,2026-02-01,3911.4,115.73,31.03
+Mumbai,Mobility,2026-02-01,15552.6,509.45,136.02
+Singapore,Mobility,2026-02-01,9540.9,293.75,73.55
+Sydney,Mobility,2026-02-01,4843.6,169.41,45.39
+Tokyo,Mobility,2026-02-01,4436.7,142.09,35.22
+San Francisco,Mobility,2026-03-01,11181.0,379.49,92.86
+New York,Mobility,2026-03-01,9685.9,341.35,86.38
+Los Angeles,Mobility,2026-03-01,21197.8,697.67,185.36
+Chicago,Mobility,2026-03-01,16160.7,571.55,148.47
+Miami,Mobility,2026-03-01,15823.5,530.15,141.99
+Toronto,Mobility,2026-03-01,15426.6,455.55,122.42
+Mexico City,Mobility,2026-03-01,10602.2 ,356.11,89.03
+Sao Paulo,Mobility,2026-03-01,10460.4,358.57,96.02
+Bogota,Mobility,2026-03-01,14425.8,467.84,118.74
+London,Mobility,2026-03-01,12541.3,369.16,98.69
+Paris,Mobility,2026-03-01,6840.2,234.66,61.24
+Berlin,Mobility,2026-03-01,3716.1,129.77,31.92
+Amsterdam,Mobility,2026-03-01,3664.2,109.7,27.73
+Madrid,Mobility,2026-03-01,9871.5,342.65,90.13
+Lagos,Mobility,2026-03-01,24849.1,810.18,217.81
+Nairobi,Mobility,2026-03-01,23861.1 ,799.56,200.23
+Johannesburg,Mobility,2026-03-01,4724.8,162.44,40.57
+Cairo,Mobility,2026-03-01,4069.4,124.28,32.54
+Accra,Mobility,2026-03-01,12395.5,372.16,97.41
+Dubai,Mobility,2026-03-01,7646.7,256.55,64.29
+Riyadh,Mobility,2026-03-01,3987.1,134.42,35.2
+Mumbai,Mobility,2026-03-01,17722.1,522.8,129.13
+Singapore,Mobility,2026-03-01,8971.8,287.7,74.31
+Sydney,Mobility,2026-03-01,4808.0,161.85,42.1
+Tokyo,Mobility,2026-03-01,3869.8,135.67,36.0
+San Francisco,Delivery,2025-01-01,1431.8,106.25,20.2
+New York,Delivery,2025-01-01,3165.2,241.29,44.94
+Los Angeles,Delivery,2025-01-01,4027.1,330.05,64.16
+Chicago,Delivery,2025-01-01,4541.9,317.43,60.31
+Miami,Delivery,2025-01-01,4996.7,382.03,70.81
+Toronto,Delivery,2025-01-01,1224.3,86.47,16.26
+Mexico City,Delivery,2025-01-01,2135.4,141.41,26.95
+Sao Paulo,Delivery,2025-01-01,3860.1,239.67,45.96
+Bogota,Delivery,2025-01-01,4576.4,350.86,67.97
+London,Delivery,2025-01-01,7107.4,454.19,81.37
+Paris,Delivery,2025-01-01,~2435.1,146.36,26.97
+Berlin,Delivery,2025-01-01,6508.0,485.1,92.53
+Amsterdam,Delivery,2025-01-01,2699.6,174.39,31.42
+Madrid,Delivery,2025-01-01,7915.5,508.02,89.79
+Lagos,Delivery,2025-01-01,5693.5,330.3,61.67
+Nairobi,Delivery,2025-01-01,3072.5,253.79,45.4
+Johannesburg,Delivery,2025-01-01,5043.9,344.29,63.4
+Cairo,Delivery,2025-01-01,1080.4,86.88,16.58
+Accra,Delivery,2025-01-01,5261.8,344.82,64.35
+Dubai,Delivery,2025-01-01,3483.0,270.48,48.82
+Riyadh,Delivery,2025-01-01,4502.7,324.26,57.35
+Mumbai,Delivery,2025-01-01,1549.0,114.0,21.18
+Singapore,Delivery,2025-01-01,3503.5,207.02,36.79
+Sydney,Delivery,2025-01-01,1405.6,108.46,19.61
+Tokyo,Delivery,2025-01-01,4259.1,254.73,48.78
+San Francisco,Delivery,2025-02-01,1527.0,107.63,19.77
+New York,Delivery,2025-02-01,3066.9,250.31,48.58
+Los Angeles,Delivery,2025-02-01,5856.1,326.84,62.17
+Chicago,Delivery,2025-02-01,5228.8,317.48,58.58
+Miami,Delivery,2025-02-01,6120.0,352.93,63.72
+Toronto,Delivery,2025-02-01,1176.4,85.32,15.64
+Mexico City,MOBILITY,2025-02-01,1749.1,143.3,25.44
+Sao Paulo,Delivery,2025-02-01,4398.4,268.12,51.01
+Bogota,Delivery,2025-02-01,5395.7,352.4,63.71
+London,Delivery,2025-02-01,7759.6,441.02,81.43
+Paris,Delivery,2025-02-01,2791.9,156.08,28.46
+Berlin,Delivery,2025-02-01,7149.1,495.84,87.68
+Amsterdam,Delivery,2025-02-01,2624.5,186.68,33.07
+Madrid,Delivery,2025-02-01,8493.4,546.41,104.97
+Lagos,Delivery,2025-02-01,5080.4,353.85,65.34
+Nairobi,Delivery,2025-02-01,4864.6,291.5,53.39
+Johannesburg,Delivery,2025-02-01,4536.5,346.26,63.2
+Cairo,Delivery,2025-02-01,1252.5,94.73,16.97
+Accra,Delivery,2025-02-01,4541.2,327.86,60.57
+Dubai,Delivery,2025-02-01,4340.8,270.03,52.52
+Riyadh,Delivery,2025-02-01,5238.6,366.39,65.91
+Mumbai,Delivery,2025-02-01,1564.1,110.33,20.84
+Singapore,Delivery,2025-02-01,2714.2,207.31,36.58
+Sydney,Delivery,2025-02-01,2018.3,115.06,21.1
+Tokyo,Delivery,2025-02-01,3790.4,267.56,48.45
+San Francisco,Delivery,2025-03-01,1591.1,112.38,21.74
+New York,Delivery,2025-03-01,4856.4,278.42,52.76
+Los Angeles,Delivery,2025-03-01,4498.8,314.46,57.25
+Chicago,Delivery,2025-03-01,4520.3,324.0,62.35
+Miami,Delivery,2025-03-01,4971.9,403.25,74.89
+Toronto,Delivery,2025-03-01,,91.13,16.45
+Mexico City,Delivery,2025-03-01,1729.4,141.87,26.55
+Sao Paulo,Delivery,2025-03-01,3837.5,251.41,46.25
+Bogota,Delivery,2025-03-01,4854.8,357.97,67.72
+London,Delivery,2025-03-01,6262.5,486.1,91.6
+Paris,Delivery,2025-03-01,2556.9,157.09,28.48
+Berlin,Delivery,2025-03-01,8531.9,496.16,90.92
+Amsterdam,Delivery,2025-03-01,2547.7,181.08,32.87
+Madrid,Delivery,2025-03-01,6389.3,525.99,93.02
+Lagos,Delivery,2025-03-01,5932.5,352.02,65.68
+Nairobi,Delivery,2025-03-01,4895.3,305.52,55.49
+Johannesburg,Delivery,2025-03-01,6344.1,393.18,70.81
+Cairo,Delivery,2025-03-01,1706.3,99.14,19.21
+Accra,Delivery,2025-03-01,4246.3,338.64,63.6
+Dubai,Delivery,2025-03-01,3428.0,277.33,50.85
+Riyadh,Delivery,2025-03-01,5292.3,353.23,64.35
+Mumbai,Delivery,2025-03-01,1688.3,117.13,20.97
+Singapore,Delivery,2025-03-01,3513.2,219.69,39.36
+Sydney,Delivery,2025-03-01,1659.5,118.11,21.0
+Tokyo,Delivery,2025-03-01,4099.9,264.58,47.33
+San Francisco,Delivery,2025-04-01,1946.3,120.13,22.79
+New York,Delivery,2025-04-01,3515.7,247.83,46.27
+Los Angeles,Delivery,2025-04-01,3859.6,313.08,58.53
+Chicago,Delivery,4/1/2025,5039.4,340.19,64.76
+Miami,Delivery,2025-04-01,4552.7,374.98,69.03
+Toronto,Delivery,2025-04-01,1378.6,89.56,17.56
+Mexico City,Delivery,2025-04-01,1870.9,142.64,27.37
+Sao Paulo,Delivery,2025-04-01,4508.8,254.33,48.56
+Bogota,Delivery,2025-04-01,6461.0,365.98,69.6
+London,Delivery,2025-04-01,7609.4,483.91,92.49
+Paris,Delivery,2025-04-01,2186.3,-160.09,29.96
+Berlin,Delivery,2025-04-01,7437.3,520.41,101.95
+Amsterdam,Delivery,2025-04-01,2524.2,196.97,35.46
+Madrid,Delivery,2025-04-01,7682.7,542.47,100.42
+Lagos,Delivery,2025-04-01,4799.5,364.85,66.45
+Nairobi,Delivery,2025-04-01,3655.0,272.61,52.38
+Johannesburg,Delivery,2025-04-01,4908.7,341.75,64.78
+Cairo,Delivery,2025-04-01,1468.5,92.35,17.42
+Accra,Delivery,2025-04-01,5382.0,350.29,66.93
+Dubai,Delivery,2025-04-01,4060.6,290.02,57.3
+Riyadh,Delivery,2025-04-01,4825.1,347.63,68.14
+Mumbai,Delivery,2025-04-01,1985.5,123.17,23.7
+Singapore,Delivery,2025-04-01,3009.4,232.27,45.26
+Sydney,Delivery,2025-04-01,1897.1,123.33,23.25
+Tokyo,Delivery,2025-04-01,4285.0,259.79,47.98
+San Francisco,Delivery,2025-05-01,1658.6,122.9,22.59
+New York,Delivery,2025-05-01,4090.4,271.2,49.54
+Los Angeles,Delivery,2025-05-01,4106.4,330.84,59.71
+Chicago,Delivery,2025-05-01,4265.9,336.51,64.81
+Miami,Delivery,2025-05-01,5948.7,399.66,77.48
+Toronto,Delivery,2025-05-01,1571.7,91.28,17.86
+Mexico City,Delivery,2025-05-01,2178.8,144.82,26.66
+Sao Paulo,Delivery,2025-05-01,4538.4,278.5,52.0
+Bogota,Delivery,2025-05-01,5264.3,377.07,72.7
+London,Delivery,2025-05-01,8130.5,476.69,92.3
+Paris,Delivery,2025-05-01,2578.1,177.51,33.73
+Berlin,Delivery,2025-05-01,9102.1,535.86,102.38
+Amsterdam,Delivery,2025-05-01,2898.6,203.24,36.92
+Madrid,Delivery,2025-05-01,7612.9,580.79,106.67
+Lagos,Delivery,2025-05-01,5888.0,333.67,63.51
+Nairobi,Delivery,2025-05-01,5099.0,316.21,57.49
+Johannesburg,Delivery,2025-05-01,5468.8,380.3,72.72
+Cairo,Delivery,2025-05-01,1308.3,106.43,21.07
+Accra,Delivery,2025-05-01,4597.0,375.13,68.1
+Dubai,Delivery,2025-05-01,5055.8,281.47,54.35
+Riyadh,Delivery,2025-05-01,4281.6,352.13,65.33
+Mumbai,Delivery,2025-05-01,1793.0,125.91,23.72
+Singapore,Delivery,2025-05-01,3785.0,222.23,43.2
+Sydney,Delivery,2025-05-01,1933.5,123.1,22.98
+Tokyo,Delivery,2025-05-01,4119.1,287.32,56.84
+San Francisco,Delivery,2025-06-01,2173.9,129.39,24.53
+New York,Delivery,2025-06-01,3440.9,272.16,49.7
+Los Angeles,mobility,2025-06-01,5693.6,381.37,70.19
+Chicago,Delivery,2025-06-01,4210.0,347.49,64.43
+Miami,Delivery,2025.06.01,6587.8,418.23,76.12
+Toronto,Delivery,2025-06-01,1422.9,95.54,17.54
+Mexico City,Delivery,2025-06-01,1921.2,156.1,28.75
+Sao Paulo,Delivery,2025-06-01,3583.1,258.59,50.72
+Bogota,Delivery,2025-06-01,5640.8,378.56,69.18
+London,Delivery,2025-06-01,9248.5,537.59,98.44
+Paris,Delivery,2025-06-01,2937.0,174.39,32.63
+Berlin,Delivery,2025-06-01,8087.8,528.5,95.34
+Amsterdam,Delivery,2025-06-01,2804.3,205.25,39.21
+Madrid,Delivery,2025-06-01,11141.8,620.17,121.32
+Lagos ,Delivery,2025-06-01,5980.8,365.8,71.34
+Nairobi,Delivery,2025-06-01,3795.4,291.66,52.44
+Johannesburg,Delivery,2025-06-01,5307.3,374.98,67.76
+Cairo,Delivery,2025-06-01,1614.2,107.0,19.81
+Accra,Delivery,2025-06-01,6204.1,349.42,64.04
+Dubai,Delivery,2025-06-01,4693.5,278.37,52.68
+Riyadh,Delivery,2025-06-01,5739.2,398.68,77.02
+Mumbai,Delivery,2025-06-01,2231.4,134.37,26.19
+Singapore,Delivery,2025-06-01,4445.7,251.14,45.51
+Sydney,Delivery,2025-06-01,1741.2,128.95,24.84
+Tokyo ,Delivery,2025-06-01,4664.0,301.66,54.22
+San Francisco,Delivery,2025-07-01,1714.3,120.59,22.89
+New York,Delivery,2025-07-01,4132.1,291.23,57.64
+Los Angeles,Delivery,2025-07-01,4988.3,364.77,69.0
+Chicago,Delivery,2025-07-01,4849.9,385.99,72.78
+Miami,Delivery,2025-07-01,5345.9,402.92,79.21
+Toronto,Delivery,2025-07-01,1633.0,101.54,19.58
+Mexico City,Delivery,2025-07-01,1943.9,151.19,27.88
+Sao Paulo,Delivery,2025-07-01,3235.4,268.35,51.16
+Bogota,Delivery,2025-07-01,5579.4,400.56,76.15
+London,Delivery,2025-07-01,6651.8,502.85,100.9
+Paris,Delivery,2025-07-01,3027.6,183.22,34.54
+Berlin,Delivery,2025-07-01,7356.4,504.53,101.57
+Amsterdam,Delivery,2025-07-01,3075.5,212.84,39.71
+Madrid,Delivery,2025-07-01,8161.0,598.3,111.15
+Lagos,Delivery,2025-07-01,5240.5,376.11,75.43
+Nairobi,Delivery,2025-07-01,5212.7,290.61,54.99
+Johannesburg,Delivery,2025-07-01,5348.5,374.84,72.93
+Cairo,Delivery,2025-07-01,1647.0,104.92,19.56
+Accra,Delivery,2025-07-01,6208.2,393.63,78.26
+Dubai,Delivery,2025-07-01,3775.3,297.63,57.52
+Riyadh,Delivery,2025-07-01,5876.2,399.22,78.09
+Mumbai,Delivery,2025-07-01,1878.1,131.27,25.0
+Singapore,Delivery,2025-07-01,3476.2,225.19,43.66
+Sydney,Delivery,2025-07-01,2055.6,130.4,23.86
+Tokyo,Delivery,2025-07-01,4387.7,281.85,54.61
+San Francisco,Delivery,2025-08-01,2061.6,139.19,25.79
+New York,Delivery,2025-08-01,4425.8,318.91,62.68
+Los Angeles,Delivery,2025-08-01,5578.3,387.05,77.94
+Chicago,Delivery,2025-08-01,7213.3,402.07,74.3
+Miami,Delivery,2025-08-01,7349.1,431.25,80.58
+Toronto,Delivery,2025-08-01,1781.6,104.95,21.03
+Mexico City,Delivery,2025-08-01,3101.6,172.67,33.19
+Sao Paulo,Delivery,2025-08-01,4384.1,269.46,53.64
+Bogota,Delivery,2025-08-01,5956.9,404.56,80.05
+London,Delivery,2025-08-01,6935.3,526.36,104.74
+Paris,Delivery,2025-08-01,,176.49,34.37
+Berlin,Delivery,2025-08-01,8415.6,563.12,111.2
+Amsterdam,Delivery,2025-08-01,3455.2,201.7,39.88
+Madrid,Delivery,2025-08-01,11016.1,631.87,121.89
+Lagos,Delivery,2025-08-01,5680.4,400.17,74.14
+Nairobi,Delivery,2025-08-01,4229.9,300.53,55.02
+Johannesburg,Delivery,2025-08-01,5511.5,433.83,86.06
+Cairo,Delivery,2025-08-01,1758.7,102.87,19.53
+Accra,Delivery,2025-08-01,4938.6,397.27,79.33
+Dubai,Delivery,2025-08-01,,332.63,61.98
+Riyadh,Delivery,2025-08-01,5538.2,420.12,82.48
+Mumbai,Delivery,2025-08-01,1662.4,137.48,26.21
+Singapore,Delivery,2025-08-01,3779.0,239.5,45.13
+Sydney,Delivery,2025-08-01,2134.3,132.0,25.6
+Tokyo,Delivery,2025-08-01,4589.9,283.98,52.49
+San Francisco,Delivery,2025-09-01,1708.1,134.54,24.87
+New York,Delivery,2025-09-01,4614.2,326.2,63.31
+Los Angeles,Delivery,2025-09-01,5965.8,369.4,74.42
+Chicago,Delivery,2025-09-01,5639.4,406.84,77.01
+Miami,Delivery,2025-09-01,6930.2,438.97,81.29
+Toronto,Delivery,2025-09-01,1514.2,104.76,20.75
+Mexico City,Delivery,2025-09-01,2994.8,169.68,32.59
+Sao Paulo,Delivery,2025-09-01,3877.6,289.15,56.64
+Bogota,Delivery,2025-09-01,7523.3,436.49,81.99
+London,Delivery,2025-09-01,8402.8,523.21,104.0
+Paris,Delivery,2025-09-01,2669.7,186.36,37.33
+Berlin,Delivery,2025-09-01,,595.1,115.4
+Amsterdam,Delivery,2025-09-01,2769.9,202.36,38.53
+Madrid,Delivery,2025-09-01,8554.2,621.77,124.78
+Lagos,Delivery,2025-09-01,5474.5,406.47,79.37
+Nairobi,Delivery,2025-09-01,5624.9,323.78,59.87
+Johannesburg,Delivery,2025-09-01,5764.3,410.29,78.14
+Cairo,Delivery,2025-09-01,1801.0,115.86,23.02
+Accra,Delivery,2025-09-01,7040.7,405.12,74.65
+Dubai,Delivery,2025-09-01,4305.2,302.18,57.22
+Riyadh,Delivery,2025-09-01,5960.4,423.83,82.74
+Mumbai,Delivery,2025-09-01,1772.6,146.02,29.29
+Singapore,Delivery,2025-09-01,3642.1,257.02,49.19
+Sydney,Delivery,2025-09-01,2237.1,139.6,26.3
+Tokyo,Delivery,2025-09-01,5548.2,310.67,62.44
+San Francisco,Delivery,2025-10-01,2480.4,146.14,27.82
+New York,Delivery,2025-10-01,5706.3,317.27,62.26
+Los Angeles,Delivery,2025-10-01,5281.0,366.54,70.24
+Chicago,Delivery,2025-10-01,7301.1,407.01,76.09
+Miami,Delivery,2025-10-01,5547.6,431.46,81.92
+Toronto,Delivery,10/1/2025,1318.9,105.5,20.79
+Mexico City,Delivery,2025-10-01,2590.6,164.61,32.14
+Sao Paulo,Delivery,2025-10-01,5212.2,309.01,57.98
+Bogota,Delivery,2025-10-01,5732.6,450.74,89.1
+London,Delivery,2025-10-01,9318.5,543.09,99.41
+Paris,Delivery,2025-10-01,2447.1,201.49,40.29
+Berlin,Delivery,2025-10-01,8664.2,569.94,110.03
+Amsterdam,Delivery,2025-10-01,2846.2,206.11,40.79
+Madrid,Delivery,2025-10-01,9780.0,634.76,117.52
+Lagos,Delivery,2025-10-01,5719.5,379.45,69.99
+Nairobi,Delivery,2025-10-01,,322.02,63.66
+Johannesburg,Delivery,2025-10-01,5651.5,424.74,78.06
+Cairo,Delivery,2025-10-01,1643.8,111.39,21.55
+Accra,Delivery,2025-10-01,7304.0,427.12,78.91
+Dubai,Delivery,2025-10-01,4676.0,308.65,62.17
+Riyadh,Delivery,2025-10-01,7049.1,410.24,79.8
+Mumbai,Delivery,2025-10-01,1797.3,148.98,28.41
+Singapore,Delivery,2025-10-01,3984.0,242.83,48.2
+Sydney,Delivery,2025-10-01,2218.9,146.11,27.14
+Tokyo,Delivery,2025-10-01,3992.3,289.2,53.46
+San Francisco,Delivery,2025-11-01,2605.0,152.47,29.75
+New York,Delivery,2025-11-01,3798.8,304.63,58.11
+Los Angeles,Delivery,2025-11-01,6914.6,394.83,73.0
+Chicago,Delivery,2025-11-01,6480.8,406.98,78.2
+Miami,Delivery,2025-11-01,7647.1,496.33,99.74
+Toronto,Delivery,2025-11-01,1610.7,112.12,22.44
+Mexico City,Delivery,2025-11-01,2380.4,175.68,34.6
+Sao Paulo,Delivery,2025-11-01,4563.9,307.1,58.66
+Bogota,Delivery,2025-11-01,6588.3,448.04,85.59
+London,Delivery,2025-11-01,6618.7,535.05,106.38
+Paris,Delivery,2025-11-01,2870.3,199.35,38.53
+Berlin,Delivery,2025-11-01,,585.7,108.15
+Amsterdam,Delivery,2025-11-01,2974.3,222.26,42.69
+Madrid,Delivery,2025-11-01,8281.2,687.02,131.99
+Lagos,Delivery,2025-11-01,4979.2,413.47,83.25
+Nairobi,Delivery,2025-11-01,4991.5,351.67,70.77
+Johannesburg,Delivery,2025-11-01,6299.4,456.25,86.62
+Cairo,Delivery,2025-11-01,1655.8,119.2,23.14
+Accra,Delivery,2025-11-01,7039.8,426.07,82.09
+Dubai,Delivery,2025-11-01,4300.5,318.28,58.73
+Riyadh,Delivery,2025-11-01,6129.2,421.16,83.41
+Mumbai,Delivery,2025-11-01,2109.8,153.84,29.3
+Singapore,Delivery,2025-11-01,4903.9,273.89,50.5
+Sydney,Delivery,2025-11-01,2161.2,155.43,29.39
+Tokyo,Delivery,2025-11-01,5368.8,338.65,67.02
+San Francisco,Delivery,2025-12-01,1698.8,138.25,27.3
+New York,Delivery,2025-12-01,5986.9,340.87,65.91
+Los Angeles,Delivery,2025-12-01,7550.7,428.87,78.56
+Chicago,Delivery,2025-12-01,5350.3,444.62,86.21
+Miami,Delivery,2025-12-01,8054.6,500.98,95.58
+Toronto,Delivery,2025-12-01,1534.6,123.27,24.7
+Mexico City,Delivery,2025-12-01,3194.3,193.48,37.0
+Sao Paulo,Delivery,2025-12-01,4630.9,316.72,60.61
+Bogota,Delivery,2025-12-01,7310.8,445.56,84.17
+London,Delivery,2025-12-01,9400.2,552.82,102.26
+Paris,Delivery,2025-12-01,2653.3,209.26,40.45
+Berlin,Delivery,2025-12-01,10527.9,594.02,112.1
+Amsterdam ,Delivery,2025-12-01,3144.0,236.98,47.51
+Madrid,Delivery,2025-12-01,11507.6,675.5,130.41
+Lagos,Delivery,2025-12-01,6062.9,408.71,81.56
+Nairobi,Delivery,2025-12-01,4765.1,334.04,63.82
+Johannesburg,Delivery,2025-12-01,7104.1,474.82,95.25
+Cairo,Delivery,2025-12-01,2069.3,124.12,23.61
+Accra,Delivery,2025-12-01,5390.4,414.68,81.7
+Dubai,Delivery,2025-12-01,4981.5,353.86,66.04
+Riyadh,Delivery,2025-12-01,6640.2,427.07,80.92
+Mumbai,Delivery,2025-12-01,2336.1,151.25,28.77
+Singapore,Delivery,2025-12-01,4469.8,288.32,54.68
+Sydney,Delivery,2025-12-01,2130.9,152.56,30.76
+Tokyo,Delivery,2025-12-01,4654.5,343.06,64.23
+San Francisco,Delivery,2026-01-01,1953.3,144.24,28.34
+New York,Delivery,2026-01-01,4254.2,298.22,60.04
+Los Angeles,Delivery,2026-01-01,6453.7,410.91,79.58
+Chicago,Delivery,2026-01-01,7166.1,410.48,83.85
+Miami,Delivery,2026-01-01,6116.0,456.83,88.96
+Toronto,Delivery,2026-01-01,1568.3,113.32,21.22
+Mexico City,Delivery,2026-01-01,2996.2,185.05,34.4
+Sao Paulo,Delivery,2026-01-01,4316.9,308.39,60.44
+Bogota,Delivery,2026-01-01,7041.6,424.49,86.5
+London,Delivery,2026-01-01,9711.7,581.39,108.8
+Paris,Delivery,2026-01-01,2832.5,186.23,35.22
+Berlin,Delivery,2026-01-01,10020.9,604.06,113.31
+Amsterdam,Delivery,2026-01-01,3953.5,225.35,45.69
+Madrid,Delivery,2026-01-01,11779.5,665.28,127.95
+Lagos,Delivery,2026-01-01,7227.5,421.54,80.47
+Nairobi,Delivery,2026-01-01,4718.8,349.67,66.57
+Johannesburg,Delivery,2026-01-01,5542.3,409.89,80.22
+Cairo,Delivery,2026-01-01,1423.5,111.31,21.17
+Accra,Delivery,2026-01-01,5692.9,415.23,79.12
+Dubai,Delivery,2026-01-01,5537.6,321.15,62.68
+Riyadh,delivery,2026-01-01,6930.8,404.64,81.73
+Mumbai,Delivery,2026-01-01,2381.3,145.17,28.43
+Singapore,Delivery,2026-01-01,4590.7,262.09,51.92
+Sydney,Delivery,2026-01-01,1856.4,150.61,28.66
+Tokyo,Delivery,2026-01-01,5616.1,335.82,64.58
+San Francisco,Delivery,2026-02-01,2002.9,140.82,27.33
+New York,Delivery,2026-02-01,5158.9,-343.15,69.88
+Los Angeles,Delivery,2026-02-01,5643.6,421.38,80.92
+Chicago,Delivery,2026-02-01,7992.5,453.01,84.89
+Miami,Delivery,2026-02-01,8562.6,491.81,91.79
+Toronto,Delivery,2026-02-01,1376.0,108.19,21.23
+Mexico City,Delivery,2026-02-01,3401.5,197.38,37.75
+Sao Paulo,Delivery,2026-02-01,3724.2,300.16,59.5
+Bogota,Delivery,2026-02-01,7810.5,436.41,85.7
+London,Delivery,2026-02-01,10005.0,598.78,120.9
+Paris,Delivery,2026-02-01,3086.3,203.56,38.01
+Berlin,Delivery,2026-02-01,8408.8,595.29,116.38
+Amsterdam,Delivery,2026-02-01,3784.8,233.19,44.09
+Madrid,Delivery,2026-02-01,8364.2,670.63,130.58
+Lagos,Delivery,2026-02-01,7623.0,427.41,83.82
+Nairobi,Delivery,2026-02-01,4938.7,357.84,67.23
+Johannesburg,Delivery,2026-02-01,7924.7,449.41,89.4
+Cairo,Delivery,2026-02-01,2246.6,128.0,26.08
+Accra,Delivery,2026-02-01,5545.2,457.49,93.08
+Dubai,Delivery,2026-02-01,5583.8,346.51,68.18
+Riyadh,Delivery,2026-02-01,7951.2,451.79,89.09
+Mumbai,Delivery,2026-02-01,2504.0,141.02,27.55
+Singapore,Delivery,2026-02-01,4392.4,255.16,47.82
+Sydney,Delivery,2026-02-01,1969.4,161.53,30.0
+Tokyo,Delivery,2026-02-01,5240.1,346.6,68.86
+San Francisco,Delivery,2026-03-01,2566.4,152.34,30.47
+New York,Delivery,2026-03-01,5339.2,318.47,59.41
+Los Angeles,Delivery,2026-03-01,6624.8,458.6,92.4
+Chicago,Delivery,2026-03-01,5183.9,428.79,82.33
+Miami,Delivery,2026-03-01,7979.3,514.34,97.9
+Toronto,Delivery,2026-03-01,1900.7,118.43,22.71
+Mexico City,Delivery,2026-03-01,3269.0,189.06,35.88
+Sao Paulo,Delivery,2026-03-01,4250.7,314.39,59.15
+Bogota,Delivery,2026-03-01,6714.6,479.71,96.19
+London,Delivery,2026-03-01,7852.8,579.05,114.65
+Paris,Delivery,2026-03-01,3619.5,209.68,39.88
+Berlin,Delivery,2026-03-01,8465.7,613.06,116.34
+Amsterdam,Delivery,2026-03-01,3761.8,234.46,46.75
+Madrid,Delivery,2026-03-01,9068.4,727.14,142.35
+Lagos,Delivery,2026-03-01,6084.5,457.24,86.88
+Nairobi,Delivery,2026-03-01,5135.0,361.0,73.84
+Johannesburg,Delivery,2026-03-01,8329.2,464.21,94.23
+Cairo,Delivery,2026-03-01,2035.8,121.63,22.85
+Accra,Delivery,2026-03-01,7807.9,466.35,89.46
+Dubai,Delivery,2026-03-01,5466.8,351.34,67.05
+Riyadh,Delivery,2026-03-01,8007.4,473.53,92.11
+Mumbai,Delivery,2026-03-01,2051.8,143.66,28.01
+Singapore,Delivery,2026-03-01,3396.4,264.09,53.63
+Sydney,Delivery,2026-03-01,,149.9,30.33
+Tokyo,Delivery,2026-03-01,6362.2,361.81,69.43
+Mexico City,Delivery,2025-02-01,1749.1,143.3,25.44
+Mumbai,Mobility,2025-05-01,14852.9,442.83,142.03
+Sao Paulo,Delivery,2026-02-01,3724.2,300.16,59.5
+New York,Mobility,2025-05-01,10725.4,327.55,100.83
+Sao Paulo,Delivery,2025-09-01,3877.6,289.15,56.64
